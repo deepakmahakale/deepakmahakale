@@ -69,7 +69,7 @@ Here are some ideas to get you started:
         :file_folder:
         &nbsp;
         deepakmahakale/facebook_birthday_export
-        <img width=600 height=1 />
+        <img width=400 height=1 />
       </a>
     </td>
     <td align="left">
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
         :file_folder:
         &nbsp;
         deepakmahakale/wanda
-        <img width=600 height=1 />
+        <img width=400 height=1 />
       </a>
     </td>
   </tr>
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
         :file_folder:
         &nbsp;
         deepakmahakale/onestop-install
-        <img width=600 height=1 />
+        <img width=400 height=1 />
       </a>
     </td>
     <td align="left">
@@ -95,10 +95,23 @@ Here are some ideas to get you started:
         :file_folder:
         &nbsp;
         deepakmahakale/read-time
-        <img width=600 height=1 />
+        <img width=400 height=1 />
       </a>
     </td>
   </tr>
 </table>
 
-#### Rails Templates :soon:
+#### Rails Templates [WIP]
+
+<table>
+  <tr>
+    <th align="left">
+      <a href="https://github.com/deepakmahakale/rails-template" title="Rails Template">
+        :file_folder:
+        &nbsp;
+        deepakmahakale/rails-template
+        <img width=1000 height=1 />
+      </a>
+    </td>
+  </tr>
+</table>
