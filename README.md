@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
-Know more about me
+#### More about me
 
 <table>
   <tr>
@@ -56,6 +55,47 @@ Know more about me
       <a href="https://leetcode.com/deepakmahakale" title="LeetCode">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/leetcode.svg"
           width=400 height=50 />
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### Projects of Interest
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/deepakmahakale/facebook_birthday_export" title="Facebook Birthday Export">
+        :file_folder:
+        &nbsp;
+        deepakmahakale/facebook_birthday_export
+        <img width=600 height=1 />
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/deepakmahakale/wanda" title="Wanda">
+        :file_folder:
+        &nbsp;
+        deepakmahakale/wanda
+        <img width=600 height=1 />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/deepakmahakale/onestop-install" title="Onestop Install">
+        :file_folder:
+        &nbsp;
+        deepakmahakale/onestop-install
+        <img width=600 height=1 />
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/deepakmahakale/read-time" title="Read Time">
+        :file_folder:
+        &nbsp;
+        deepakmahakale/read-time
+        <img width=600 height=1 />
       </a>
     </td>
   </tr>
