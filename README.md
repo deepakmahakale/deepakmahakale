@@ -8,16 +8,55 @@ Here are some ideas to get you started:
 
 Know more about me
 
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/stackoverflow.svg" height=15 /> - Stack Overflow](https://stackoverflow.com/users/4758119/deepak-mahakale)
-
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/linkedin.svg" height=15 /> - LinkedIn](https://www.linkedin.com/in/deepakmahakale)
-
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/blog.svg" height=15 /> - Personal Blog](https://deepakmahakale.in/blog)
-
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/devto.svg" height=15 /> - dev.to](https://dev.to/deepakmahakale)
-
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/twitter.svg" height=15 /> - Twitter](https://twitter.com/deepakmahakale)
-
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/Hackerrank.svg" height=15 /> - HackerRank](https://www.hackerrank.com/deepakmahakale)
-
-[<img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/leetcode.svg" height=15 /> - LeetCode](https://leetcode.com/deepakmahakale)
+<table>
+  <tr>
+    <td>
+      <a href="https://stackoverflow.com/users/4758119/deepak-mahakale" title="Stack Overflow">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/stackoverflow.svg"
+          width=400 height=50 />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/deepakmahakale" title="LinkedIn">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/linkedin.svg"
+          width=400 height=50 />
+      </a>
+    </td>
+    <td>
+      <a href="https://deepakmahakale.in/blog" title="Personal Blog">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/blog.svg" width=400 height=50 />
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to/deepakmahakale" title="dev.to">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/devto.svg" width=400 height=50 />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/deepakmahakale" title="GitHub">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/github.svg"
+          width=400 height=50 />
+      </a>
+    </td>
+    <td>
+      <a href="https://twitter.com/deepakmahakale" title="Twitter">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/twitter.svg"
+          width=400 height=50 />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hackerrank.com/deepakmahakale" title="HackerRank">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/Hackerrank.svg"
+          width=400 height=50 />
+      </a>
+    </td>
+    <td>
+      <a href="https://leetcode.com/deepakmahakale" title="LeetCode">
+        <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/leetcode.svg"
+          width=400 height=50 />
+      </a>
+    </td>
+  </tr>
+</table>
