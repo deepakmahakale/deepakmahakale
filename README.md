@@ -10,49 +10,49 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://stackoverflow.com/users/4758119/deepak-mahakale" title="Stack Overflow">
+      <a href="https://stackoverflow.com/users/4758119/deepak-mahakale" title="Stack Overflow" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/stackoverflow.svg"
           width=400 height=50 />
       </a>
     </td>
     <td>
-      <a href="https://www.linkedin.com/in/deepakmahakale" title="LinkedIn">
+      <a href="https://www.linkedin.com/in/deepakmahakale" title="LinkedIn" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/linkedin.svg"
           width=400 height=50 />
       </a>
     </td>
     <td>
-      <a href="https://deepakmahakale.in/blog" title="Personal Blog">
+      <a href="https://deepakmahakale.in/blog" title="Personal Blog" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/blog.svg" width=400 height=50 />
       </a>
     </td>
     <td>
-      <a href="https://dev.to/deepakmahakale" title="dev.to">
+      <a href="https://dev.to/deepakmahakale" title="dev.to" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/devto.svg" width=400 height=50 />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/deepakmahakale" title="GitHub">
+      <a href="https://github.com/deepakmahakale" title="GitHub" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/github.svg"
           width=400 height=50 />
       </a>
     </td>
     <td>
-      <a href="https://twitter.com/deepakmahakale" title="Twitter">
+      <a href="https://twitter.com/deepakmahakale" title="Twitter" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/twitter.svg"
           width=400 height=50 />
       </a>
     </td>
     <td>
-      <a href="https://www.hackerrank.com/deepakmahakale" title="HackerRank">
+      <a href="https://www.hackerrank.com/deepakmahakale" title="HackerRank" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/Hackerrank.svg"
           width=400 height=50 />
       </a>
     </td>
     <td>
-      <a href="https://leetcode.com/deepakmahakale" title="LeetCode">
+      <a href="https://leetcode.com/deepakmahakale" title="LeetCode" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/leetcode.svg"
           width=400 height=50 />
       </a>
