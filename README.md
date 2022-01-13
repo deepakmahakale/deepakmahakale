@@ -83,10 +83,10 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td align="left">
-      <a href="https://github.com/deepakmahakale/onestop-install" title="Onestop Install">
+      <a href="https://github.com/deepakmahakale/wordle" title="Onestop Install">
         :file_folder:
         &nbsp;
-        deepakmahakale/onestop-install
+        deepakmahakale/wordle
         <img width=400 height=1 />
       </a>
     </td>
@@ -95,6 +95,16 @@ Here are some ideas to get you started:
         :file_folder:
         &nbsp;
         deepakmahakale/read-time
+        <img width=400 height=1 />
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td align="left">
+      <a href="https://github.com/deepakmahakale/onestop-install" title="Onestop Install">
+        :file_folder:
+        &nbsp;
+        deepakmahakale/onestop-install
         <img width=400 height=1 />
       </a>
     </td>
