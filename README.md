@@ -60,6 +60,99 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+#### Open Source Contributions
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/rails/rails/pulls/deepakmahakale?q=is%3Aclosed" title="Rails">
+        :file_folder:
+        &nbsp;
+        Rails
+      </a>
+      - Web-application framework
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/spree/spree/pulls/deepakmahakale?q=is%3Aclosed" title="Spree">
+        :file_folder:
+        &nbsp;
+        Spree
+      </a>
+      - Open Source multi-language/multi-currency/multi-store eCommerce platform
+      <img width=1000 height=1 />
+    </td>
+  </tr> 
+  <tr>
+    <td>
+      <a href="https://github.com/zombocom/wicked/pulls/deepakmahakale?q=is%3Aclosed" title="Wicked">
+        :file_folder:
+        &nbsp;
+        Wicked
+      </a>
+      - Step-by-step wizards in rails controllers
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/TDAmeritrade/botbuilder-storage-postgres/pulls/deepakmahakale?q=is%3Aclosed" title="Botbuilder Storage Postgres">
+        :file_folder:
+        &nbsp;
+        Botbuilder Storage Postgres
+      </a>
+      - Botbuilder adapter for Postgres storage.
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/forem/forem/pulls/deepakmahakale?q=is%3Aclosed" title="Forem">
+        :file_folder:
+        &nbsp;
+        Forem
+      </a>
+      - dev.to platform
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/coorasse/heroku-api-postgres/pulls/deepakmahakale?q=is%3Aclosed" title="Heroku API Postgres">
+        :file_folder:
+        &nbsp;
+        Heroku API Postgres
+      </a>
+      - A Ruby library to invoke Heroku Postgres APIs
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/RobinHerbots/Inputmask/pulls/deepakmahakale?q=is%3Aclosed" title="Inputmask">
+        :file_folder:
+        &nbsp;
+        Inputmask
+      </a>
+      - Input Mask plugin
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/howdyai/botkit/pulls/deepakmahakale?q=is%3Aclosed" title="Botkit">
+        :file_folder:
+        &nbsp;
+        Botkit
+      </a>
+      - Open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+      <img width=1000 height=1 />
+    </td>
+  </tr>
+</table>
+
 #### Projects of Interest
 
 <table>
