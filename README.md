@@ -1,5 +1,13 @@
 ### :point_left: This is me
 
+```mermaid
+stateDiagram-v2
+
+Eat --> Sleep
+Sleep --> Code
+Code --> Eat
+```
+
 <!--
 **deepakmahakale/deepakmahakale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
