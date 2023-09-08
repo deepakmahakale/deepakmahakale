@@ -30,7 +30,7 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>
-      <a href="https://deepakmahakale.in/blog" title="Personal Blog" target="_blank">
+      <a href="https://deepakmahakale.com/blog" title="Personal Blog" target="_blank">
         <img src="https://raw.githubusercontent.com/deepakmahakale/deepakmahakale/master/images/blog.svg" width=400 height=50 />
       </a>
     </td>
